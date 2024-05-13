@@ -24,7 +24,7 @@ Where:
 
  - $$treat_{sk}$$ is a dummy variable, equaling 1 if the observation's periods relative to the group $$g$$'s first treated period is the same value as `k`; 0 otherwise (and 0 for all never-treated groups).
 
- - $$T_0$$ and $$T_1$$ are the lowest and highest number of leads and lags to consider surrouning the treatment period, respectively.
+ - $$T_0$$ and $$T_1$$ are the lowest and highest number of leads and lags to consider surrounding the treatment period, respectively.
 
  - $$X`$$ are controls
 
